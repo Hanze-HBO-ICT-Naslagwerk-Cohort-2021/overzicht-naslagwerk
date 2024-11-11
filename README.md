@@ -1,5 +1,5 @@
-# overzicht-naslagwerk
-In deze repository staat enkel een README met links naar de GitHub Pages van verschillende cursussen.
+# Overzicht Hanze HBO-ICT Naslagwerk voor Cohort 2021
+Deze repository bevat enkel een README met links naar de GitHub Pages van verschillende cursussen.
 
 ## Jaar 1
 
